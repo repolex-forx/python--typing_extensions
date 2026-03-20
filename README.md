@@ -38,22 +38,28 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 .
 ├── aggregate
 │   ├── ast
+│   │   ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
 │   │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 │   ├── lsp
+│   │   ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
 │   │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 │   └── repolex
+│       ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
 │       └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── blob
 │   ├── 06d4cc40a8b2e753329cf1ee648789f14aa70dec.nq.gz
 │   ├── 4166510a71aab8e482392f3b19a02f60f4119891.nq.gz
 │   ├── 583f9f6e6175f891a0ebd56dfe41ad9411b233b9.nq.gz
 │   ├── 5c21a6df8966b2de3d3c9a62280803321fe2ea20.nq.gz
+│   ├── 6075ee91303de8ce9199b6ee7873eb4fec3b169d.nq.gz
 │   ├── 62d1e46c7217d63f11200ae74d2c7519aeee1cef.nq.gz
 │   ├── 637292647b927a66c3fa4a0c32230ca94855c8b8.nq.gz
+│   ├── 75bdb8ebb1c57b6d88158ab19a8df7f8c5440035.nq.gz
 │   ├── 7b1611cb8b0285fa82a7dca04a6531d8b938af93.nq.gz
 │   ├── 7bb6156d733673578fc147a2f3f2de571a380663.nq.gz
 │   ├── 806f8331d2b161598dea9ba11431383bc2aadbca.nq.gz
 │   ├── 82d1c2dc2c406f14214a75172d97d74f1fd03a1d.nq.gz
+│   ├── 95bb873572e3153ffca4b1148be29d73bb33dc54.nq.gz
 │   ├── 98f6213580d3e66f67ebd6fe81ba167327865561.nq.gz
 │   ├── ca537456b1c3a54b761b64c816417de169024785.nq.gz
 │   ├── e2889ce0ebb5f12a25b4c09fe99b6d961f0edac5.nq.gz
@@ -64,9 +70,11 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 ├── commit
 │   └── commit.nq.gz
 ├── dep
+│   ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
 │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── filetree
 │   ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
+│   ├── a9be78c5dcf0ce475b3b561b326637ecca2e8e50.nq.gz
 │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -75,7 +83,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-13 directories, 26 files
+13 directories, 34 files
 ```
 
 | Directory | What it contains |
