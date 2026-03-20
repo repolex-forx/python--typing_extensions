@@ -94,6 +94,19 @@
         "blob/4166510a71aab8e482392f3b19a02f60f4119891.nq.gz",
         "blob/806f8331d2b161598dea9ba11431383bc2aadbca.nq.gz",
         "blob/62d1e46c7217d63f11200ae74d2c7519aeee1cef.nq.gz"
+      ],
+      "ast": [
+        "aggregate/ast/a9be78c5dcf0ce475b3b561b326637ecca2e8e50.nq.gz"
+      ],
+      "lsp": "aggregate/lsp/a9be78c5dcf0ce475b3b561b326637ecca2e8e50.nq.gz",
+      "repolex": "aggregate/repolex/a9be78c5dcf0ce475b3b561b326637ecca2e8e50.nq.gz",
+      "dep": "dep/a9be78c5dcf0ce475b3b561b326637ecca2e8e50.nq.gz",
+      "dependencies": [
+        {
+          "packageName": "typing-extensions",
+          "githubOrg": "python",
+          "githubRepo": "typing_extensions"
+        }
       ]
     }
   ],
