@@ -1,0 +1,30 @@
+{
+  "manifest_version": "1.0",
+  "org": "python",
+  "repo": "typing_extensions",
+  "versions": [
+    {
+      "commit": "faa7ce22752123e616a08c9e4fe81c3b234c1354",
+      "parsed_at": "2026-03-20T15:27:11.505611+00:00",
+      "tag": "3.10.0.0",
+      "filetree": "filetree/faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz",
+      "blobs": [
+        "blob/5c21a6df8966b2de3d3c9a62280803321fe2ea20.nq.gz",
+        "blob/7bb6156d733673578fc147a2f3f2de571a380663.nq.gz",
+        "blob/637292647b927a66c3fa4a0c32230ca94855c8b8.nq.gz",
+        "blob/98f6213580d3e66f67ebd6fe81ba167327865561.nq.gz",
+        "blob/e2889ce0ebb5f12a25b4c09fe99b6d961f0edac5.nq.gz",
+        "blob/82d1c2dc2c406f14214a75172d97d74f1fd03a1d.nq.gz",
+        "blob/7b1611cb8b0285fa82a7dca04a6531d8b938af93.nq.gz",
+        "blob/feda4cf1e4446aa94cbbf292528c369964eee1f7.nq.gz",
+        "blob/583f9f6e6175f891a0ebd56dfe41ad9411b233b9.nq.gz",
+        "blob/62d1e46c7217d63f11200ae74d2c7519aeee1cef.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
