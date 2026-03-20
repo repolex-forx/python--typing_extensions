@@ -36,22 +36,37 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 
 ```
 .
+├── aggregate
+│   ├── ast
+│   │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
+│   ├── lsp
+│   │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
+│   └── repolex
+│       └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── blob
+│   ├── 06d4cc40a8b2e753329cf1ee648789f14aa70dec.nq.gz
+│   ├── 4166510a71aab8e482392f3b19a02f60f4119891.nq.gz
 │   ├── 583f9f6e6175f891a0ebd56dfe41ad9411b233b9.nq.gz
 │   ├── 5c21a6df8966b2de3d3c9a62280803321fe2ea20.nq.gz
 │   ├── 62d1e46c7217d63f11200ae74d2c7519aeee1cef.nq.gz
 │   ├── 637292647b927a66c3fa4a0c32230ca94855c8b8.nq.gz
 │   ├── 7b1611cb8b0285fa82a7dca04a6531d8b938af93.nq.gz
 │   ├── 7bb6156d733673578fc147a2f3f2de571a380663.nq.gz
+│   ├── 806f8331d2b161598dea9ba11431383bc2aadbca.nq.gz
 │   ├── 82d1c2dc2c406f14214a75172d97d74f1fd03a1d.nq.gz
 │   ├── 98f6213580d3e66f67ebd6fe81ba167327865561.nq.gz
+│   ├── ca537456b1c3a54b761b64c816417de169024785.nq.gz
 │   ├── e2889ce0ebb5f12a25b4c09fe99b6d961f0edac5.nq.gz
+│   ├── e4d1644047e76a794ac15c2a844998ec846cfc96.nq.gz
 │   └── feda4cf1e4446aa94cbbf292528c369964eee1f7.nq.gz
 ├── branch
 │   └── branch.nq.gz
 ├── commit
 │   └── commit.nq.gz
+├── dep
+│   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── filetree
+│   ├── 0c70227e221866b74b5cf6b3e251bc67864781ef.nq.gz
 │   └── faa7ce22752123e616a08c9e4fe81c3b234c1354.nq.gz
 ├── issue
 │   └── issue.nq.gz
@@ -60,7 +75,7 @@ All data is stored as gzip-compressed [N-Quads](https://www.w3.org/TR/n-quads/) 
 └── tag
     └── tag.nq.gz
 
-8 directories, 16 files
+13 directories, 26 files
 ```
 
 | Directory | What it contains |
